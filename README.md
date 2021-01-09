@@ -1,2 +1,2 @@
-# customManager
+boot + gradle + mybatis + mysql
 
